@@ -11,12 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Phishing Email Analysis          | <a href="https://github.com/schallon/Phishing-Email-Analysis-Lab">Phishing Email Analysis Lab</a>|
 
 ## Tools
 
@@ -38,9 +33,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
+    Work in Progress:
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/schallon/Phishing-Email-Analysis-Lab">Phishing Email Analysis Lab</a>
